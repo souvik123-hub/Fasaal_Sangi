@@ -1,5 +1,5 @@
 # Fasaal_Sangi
- <h1>FarmBuddy<br>
+ 
 Your Farm Partner</h1>
 <h2>Middlemen less Initiative,An E-commerce website for farmers,To Learn Farming in offline way and online way.
 Done as part of the Hackathon conducted by the Gfg,Google and Amd.</h2>

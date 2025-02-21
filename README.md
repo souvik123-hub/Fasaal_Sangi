@@ -5,7 +5,65 @@ Your Farm Partner</h1>
 Done as part of the Hackathon conducted by the Gfg,Google and Amd.</h2>
 <img src="https://user-images.githubusercontent.com/95526528/232857161-ba1ea007-f656-4962-9bd1-829fdd925184.png">
 <h2>Introduction</h2>
-In Agriculture sector there has been always middlemen between the customer and farmer,why should middlemen has to be benefited??..While the Farmer doesn't even getting the profits,if the farmer doesn't get profit who will sought the seeds for the next yield season?About 88% of the suicides of the farmers are because of the debt burden,if the farmer doesn't have enough money to grow the crops then who will grow the crops,farmer is the backbone of our country,if we are not supporting our farmers the country is not gonna survive without the backbone.To sell the agriculture product, farmer has to go through this process <br><b>FARMER-->CONTACT BUYER-->MEETING-->NEGOTIATION-->SAMPLE CHECK-->SALES CONTRACT-->ADVANCED PAYMENT-->PRODUCT LOAD-->TRUCK-->CUSTOMS-->SHIP-->BATCH CHECK-->UNLOAD-->TRUCK-->QUALITY CHECK-->DELIVERY-->FINAL PAYMENT-->SELLING TO VENDORS-->VENDORS SELLING-->LOCAL RETAILERS-->TO US(CUSTOMERS)</b><br>This has to be the whole process for an agricultural product to reach from farmer to the customer,in this process the product may be damaged and the product may be surplused to the retailer and sometimes there may be an inflation of the product.A number of global trends are influencing food security, poverty, and the overall sustainability of food and agricultural systems.As per the reports by 2050 we will need to produce 70 percent more food. Meanwhile, agriculture’s share of global GDP has shrunk to just 3 percent, one-third its contribution just decades ago. Roughly 800 million people worldwide suffer from hunger. And under a business-as-usual scenario, 8 percent of the world’s population (or 650 million) will still be undernourished by 2030.To overcome this problem everyone should learn farming.It is even lot better to grow your own food item in your house-balcony,terrace etc... Everyone loves greenary but they are supporting that with the artificial grass why couldnt there be a normal creepers like Bottle gourd, watermelon, pumpkin, strawberry etc..There are many people who wants to learn farming in either offline or virtually but they doesnt know someone in the farming sector so they might be stopped,so this shouldn't be happened so we provide the Farm Buddy patrons(Farmers) who are willing to teach farming with a minimum cost.Farmers are leaving the farming because of less money,so we provided a solution in our survey,teaching to the persons who are passionate about farming so the farmer will be profitted and we also.That's how we can overcome the food scarcity.The user may learn virtually by contacting the patron or by visiting the nearest location farm of the farm patron.The barren farms will also be given lease.To overcome this problems we thought and brought a solution via web application that is FarmBuddy.Farming should be the greatest hobby.
+# 🌱 Fasaal Sangi
+
+Fasaal Sangi is a web-based platform designed to help farmers identify suitable exotic crops (like broccoli, avocado, and blueberry) that they can grow based on their geographic location, soil type, and local climate. The platform uses Firebase for backend services and supports Aadhaar verification for secure login and signup.
+
+## 💡 Features
+- *Crop Suggestions:* Provides crop recommendations based on GPS location, state, district, and soil type.
+- *Aadhaar Verification:* Secure login and signup using Aadhaar for authenticity.
+- *Language Selection:* Farmers can choose their preferred language for accessibility.
+- *Farmer ID Storage:* Stores Farmer IDs in Firebase for personalized user experiences.
+
+## 🛠 Tech Stack
+- *Frontend:* HTML, CSS, JavaScript
+- *Backend:* Firebase Authentication and Firestore
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+- Visual Studio Code installed
+- Firebase account and project set up
+
+### 2. Installation
+1. Clone this repository:
+   bash
+   git clone https://github.com/your-username/fasaal-sangi.git
+   
+2. Navigate to the project directory:
+   bash
+   cd fasaal-sangi
+   
+
+### 3. Firebase Setup
+1. Go to the [Firebase Console](https://console.firebase.google.com/).
+2. Create a new project named *Fasaal Sangi*.
+3. Enable Firebase Authentication and Firestore Database.
+4. Get your Firebase configuration code and add it to your JavaScript file.
+
+### 4. Running the Website
+1. Open the project folder in VS Code.
+2. Open index.html using the Live Server extension.
+
+## 📁 Project Structure
+
+Fasaal-Sangi
+├── index.html
+├── styles.css
+├── main.js
+└── README.md
+
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+## 📧 Contact
+For any inquiries or collaborations, please contact [Your Email Address].
+
+---
+
+Empowering farmers with knowledge to grow beyond boundaries! 🌱
+
 <h2>About</h2>
 Farm Buddy is a farmer-to-customer,B2B,B2C,C2C online marketplace platform that aims to connect farmers directly with customers. The platform is designed to eliminate the need for intermediaries such as Brokers,Transport,thus reducing costs and providing better value for both farmers and customers.Another aim of the farm buddy is to provide an platform for everyone to learn farming.
 <h2>Technologies Used</h2>

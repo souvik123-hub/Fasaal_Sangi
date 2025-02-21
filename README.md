@@ -1,9 +1,9 @@
 # Fasaal_Sangi
  
-Your Farm Partner</h1>
-<h2>Middlemen less Initiative,An E-commerce website for farmers,To Learn Farming in offline way and online way.
-Done as part of the Hackathon conducted by the Gfg,Google and Amd.</h2>
-<img src="https://user-images.githubusercontent.com/95526528/232857161-ba1ea007-f656-4962-9bd1-829fdd925184.png">
+
+<h2>Digital Farming for Atmanirbhar Bharat!
+Smart Solutions from Farm to Market.</h2>
+<img src="all_image/WhatsApp Image 2025-02-21 at 23.29.55_3561072c.jpg">
 <h2>Introduction</h2>
 # 🌱 Fasaal Sangi
 

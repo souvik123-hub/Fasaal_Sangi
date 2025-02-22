@@ -58,7 +58,7 @@ Fasaal-Sangi
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## 📧 Contact
-For any inquiries or collaborations, please contact [Your Email Address].
+For any inquiries or collaborations, please contact fasaalsangi2025@gmail.com.
 
 ---
 
